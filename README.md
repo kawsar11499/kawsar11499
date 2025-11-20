@@ -6,8 +6,6 @@ Aspiring Data Analyst | Python | SQL | Tableau | Student Mental Health Projects
 💬 Ask me about: Python, SQL, Data Visualization, Jupyter Notebooks  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kawsar11499) | [Email](kawsar11499@gmail.com)  
 
----
-
 ## 🛠 Skills
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
