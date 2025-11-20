@@ -4,7 +4,7 @@ Aspiring Data Analyst | Python | SQL | Tableau | Student Mental Health Projects
 
 🌱 Currently learning: Student mental health data analysis, predictive modeling, dashboards  
 💬 Ask me about: Python, SQL, Data Visualization, Jupyter Notebooks  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kawsar11499) | [Email](kawsar11499@gmail.com)  
 
 ---
 
