@@ -21,7 +21,7 @@ Aspiring Data Analyst | Python | SQL | Tableau | Student Mental Health Projects
 
 ## 📊 Projects
 
-- **[Student Mental Health Case Study](https://github.com/yourusername/student-mental-health)**  
+- **[Student Mental Health Case Study](https://github.com/kawsar11499/My_Data_Science_Projects)**  
   Explored the relationship between student stress, sleep, academic pressure, and GPA. Identified at-risk groups and suggested interventions to improve retention and academic performance.
 
 ---
