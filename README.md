@@ -1,4 +1,4 @@
-# Mohammed Uddin's Portfolio 👋
+# Mohammed Uddin's Portfolio
 ## Welcome to my portfolio
 
 🌱 Currently learning: Data Analytics    
