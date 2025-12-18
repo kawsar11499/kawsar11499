@@ -1,6 +1,8 @@
 # Welcome to my portfolio
 
 Hello, I'm Mohammed. I have a background in biomedicine and computational biology, with an expertise in research and data analytics.
+
+:hammer: Tools
 - Spreadsheets
 - SQL
 - Tableau
