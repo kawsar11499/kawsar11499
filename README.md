@@ -1,5 +1,5 @@
 # Welcome to my portfolio
-📫 Connec with me: [LinkedIn](https://www.linkedin.com/in/kawsaruddin11499) | [Email](mailto:kawsar11499@gmail.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kawsaruddin11499) | [Email](mailto:kawsar11499@gmail.com)
 Hello, I'm Mohammed. I have a background in biomedicine and computational biology, with an expertise in research and data analytics.
 - Spreadsheets
 - SQL
