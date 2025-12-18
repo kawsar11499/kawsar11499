@@ -1,7 +1,11 @@
-# Mohammed Uddin's Portfolio
-## Welcome to my portfolio
+# Welcome to my portfolio
 
-🌱 Currently learning: Data Analytics      
+Hello, I'm Mohammed. I have a background in biomedicine and computational biology, with an expertise in research and data analytics.
+- Spreadsheets
+- SQL
+- Tableau
+- Python
+- R
 
 ## 📊 Projects
 
