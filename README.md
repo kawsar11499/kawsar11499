@@ -12,5 +12,7 @@ Hello, I'm Mohammed. I have a background in biomedicine and computational biolog
 ### 📊 Projects
 - **[Retro Video Games](https://github.com/kawsar11499/retro-video-games-project)**  
   What makes a retro video game port successful?
+-**[Calisthenics Workout Tracker](https://github.com/kawsar11499/calisthenics-workout-tracker)**
+  Full stack app to log workout progress
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kawsaruddin11499) | [Email](mailto:kawsar11499@gmail.com)
