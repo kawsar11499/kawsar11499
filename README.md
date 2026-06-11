@@ -14,6 +14,6 @@ Hello, I'm Mohammed. I have a background in biomedicine and computational biolog
   What makes a retro video game port successful?
   
 - **[Calisthenics Workout Tracker](https://github.com/kawsar11499/calisthenics-workout-tracker)**  
-  Full stack app to log workout progress
+  Full stack app to log workout progress   
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kawsaruddin11499) | [Email](mailto:kawsar11499@gmail.com)
